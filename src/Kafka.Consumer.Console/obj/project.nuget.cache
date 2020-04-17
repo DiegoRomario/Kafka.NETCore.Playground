@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IqBAr75fLpOyT0yyjOIs6TEB3OwHS96p0EscF5Bg/20PerQxIWCW3lEph9g8iEXqzgkLOnL5WpNinJUEOJ7Gdw==",
+  "success": true,
+  "projectFilePath": "C:\\gitRepository\\Kafka.NETCore.Playground\\src\\Kafka.Consumer.Console\\Kafka.Consumer.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diego\\.nuget\\packages\\confluent.kafka\\1.4.0\\confluent.kafka.1.4.0.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\librdkafka.redist\\1.4.0\\librdkafka.redist.1.4.0.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
